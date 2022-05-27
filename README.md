@@ -5,6 +5,7 @@
 
 👉 python IDE - Visual Studio Code
 
-#### Pygame - Snake & Apple ####
+### pygame_compilation ###
+#### 1) Pygame - Snake & Apple ####
 
 * code source) https://www.youtube.com/watch?v=8dfePlONtls

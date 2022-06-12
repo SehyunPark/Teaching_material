@@ -1,1 +1,1 @@
-## App Inventor projects compilation
+## App Inventor projects

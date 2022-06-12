@@ -2,4 +2,5 @@
 
 <b> prj - making a korean flag </b>
 
-![prj_result](https://user-images.githubusercontent.com/28240330/173235937-192024ac-5a3b-478e-9ac3-e75bd319fb22.PNG)
+<img src = "https://user-images.githubusercontent.com/28240330/173236255-52accd1b-62d9-4397-81bb-ef6325de7fac.PNG" 
+     width = "300" height = "200"/>

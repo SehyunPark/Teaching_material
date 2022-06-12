@@ -1,0 +1,24 @@
+1. import turtle - turtle.done()으로 마무리한다.
+
+2. turtle.Turtle()로 객체 시리 만들기
+
+3. -- 실습 --
+1) 정사각형 한 개, 두 개 만들기 (두 파일)
+2) 색깔 소개 .color('edge color', 'fill color')
+- color picker 소개 (#과 rgb)
+- siri.begin_fill() & siri.end_fill()
+
+3) for loop을 이용한 별 만들기
+- speed
+- for range
+- math module 소개
+
+4. -- 실습 예시 --
+1) 한국 국기 그리기
+2) 각자 원하는 그림 그려보기
+
+5. 실행파일 만드는 법 알려주기
+
+-------------------------------------------------
++ 복습 플랫폼?
++ 다음주에 하고 싶은 거 묻기

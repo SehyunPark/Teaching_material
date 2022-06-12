@@ -1,7 +1,7 @@
 # Teaching_material
-👨‍🏫 플레이소프트영재코딩학원
+👨‍🏫 플레이소프트영재코딩학원 주엽, 정발산 campus
 
-👏 python & app inventor & aduino, roblox 강사로 일하면서 참조하거나, 직접 만든 강의자료입니다
+👏 codes' compilation
 
 👉 python IDE - Visual Studio Code
 

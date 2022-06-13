@@ -1,11 +1,15 @@
 # Teaching_material
 👨‍🏫 플레이소프트영재코딩학원 주엽, 정발산 campus
 
-👏 codes' compilation
+👏 각 반 수업자료 모음 (code 포함)
 
-👉 python IDE - Visual Studio Code
+### python_기초반
 
-### pygame_compilation ###
-#### 1) Pygame - Snake & Apple ####
+### python_심화반
 
-* code source) https://www.youtube.com/watch?v=8dfePlONtls
+### app inventor
+
+### meta skills
+
+### roblox_기초반
+

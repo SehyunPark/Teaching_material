@@ -1,15 +1,15 @@
 # Teaching_material
 👨‍🏫 플레이소프트영재코딩학원 주엽, 정발산 campus
 
-👏 각 반 수업자료 모음 (code 포함)
+👏 수업자료 모음 (code 포함)
 
-### python_기초반
+#### ⭐️ python_기초반
 
-### python_심화반
+#### ⭐️ python_심화반
 
-### app inventor
+#### ⭐️ app inventor
 
-### meta skills
+#### ⭐️ meta skills
 
-### roblox_기초반
+#### ⭐️ roblox_기초반
 

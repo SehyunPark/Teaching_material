@@ -8,8 +8,8 @@
 #
 
 ### ⭐️ python_심화반
-##### 🐢 <b>python turtle graphics</b> (⭐️⭐️)
-##### 👜 <b>python OOP(Object-Oriented Programming)</b> (⭐️⭐️⭐️)
+##### 🐢 python TURTLE graphics (⭐️⭐️)
+##### 👜 python OOP(Object-Oriented Programming) (⭐️⭐️⭐️)
 
 #
 
@@ -20,6 +20,7 @@
 #
 
 ### ⭐️ meta skills
+##### ✔️ week 1 - GOOGLING & WIKIPEDIA, FILE & FOLDER & IMAGE (+how to download, rename and copy-paste) (⭐️⭐️)
 
 #
 

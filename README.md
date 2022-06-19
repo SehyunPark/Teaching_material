@@ -1,15 +1,24 @@
 # Teaching_material
-👨‍🏫 플레이소프트영재코딩학원 주엽, 정발산 campus
+👨‍🏫 <b>플레이소프트영재코딩학원 주엽, 정발산 campus</b>
 
 👏 수업자료 모음 (code 포함)
 
-#### ⭐️ python_기초반
+### ⭐️ python_기초반
 
-#### ⭐️ python_심화반
+#
 
-#### ⭐️ app inventor
+### ⭐️ python_심화반
+##### 🐢 <b>python turtle graphics</b> (⭐️⭐️⭐️)
+##### 👜 <b>python OOP(Object-Oriented Programming)</b> (⭐️⭐️⭐️⭐️)
 
-#### ⭐️ meta skills
+#
 
-#### ⭐️ roblox_기초반
+### ⭐️ app inventor
 
+#
+
+### ⭐️ meta skills
+
+#
+
+### ⭐️ roblox_기초반

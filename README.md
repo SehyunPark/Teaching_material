@@ -8,12 +8,14 @@
 #
 
 ### ⭐️ python_심화반
-##### 🐢 <b>python turtle graphics</b> (⭐️⭐️⭐️)
-##### 👜 <b>python OOP(Object-Oriented Programming)</b> (⭐️⭐️⭐️⭐️)
+##### 🐢 <b>python turtle graphics</b> (⭐️⭐️)
+##### 👜 <b>python OOP(Object-Oriented Programming)</b> (⭐️⭐️⭐️)
 
 #
 
 ### ⭐️ app inventor
+##### 🚩 <b>G001 - Room_Escape</b> (⭐⭐⭐⭐)
+##### 🚩 <b>G002 - Basketball</b> (⭐)
 
 #
 

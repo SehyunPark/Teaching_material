@@ -15,3 +15,7 @@
 - class variable & instance variable 차이점
 
 - (Exercise 001) cal class 만들기
+
+- regular instance method vs. class method (class constructor) vs. static method 차이점
+
+- (Exercise 002) 앞서 만든 cal class에 class method & static method 만들어보기

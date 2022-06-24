@@ -13,14 +13,14 @@
 
 #
 
-### ⭐️ app inventor
+### ⭐️ app_inventor
 ##### 🚩 <b>G001 - Room_Escape</b> (⭐⭐⭐⭐)
 ##### 🚩 <b>G002 - Basketball</b> (⭐)
 ##### 🚩 <b>G003 - Mole_Mash</b> (⭐⭐⭐)
 
 #
 
-### ⭐️ meta skills
+### ⭐️ meta_skills
 ##### ✔️ week 1 - GOOGLING & WIKIPEDIA, FILE & FOLDER & IMAGE (+how to download, rename and copy-paste) (⭐️⭐️)
 ##### ✔️ week 2 - Proper, Incorrect Typing Hand Placement & Posture + Hancom Typing Practice (Kor/Eng) (Practice Lv.01) (⭐️⭐️⭐️)
 

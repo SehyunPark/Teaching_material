@@ -27,6 +27,7 @@
 #
 
 ### ⭐️ roblox_기초반
+##### 📌 week 1 - fundamentals - making some parts, part effects, integrate & disintegrate some parts, making a magic chair, free practice (⭐️⭐️)
 
 #
 

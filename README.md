@@ -11,6 +11,7 @@
 ##### 🐢 wk1) python TURTLE graphics (⭐️⭐️)
 ##### 👜 wk2) python OOP (1/2) (⭐️⭐️⭐️)
 ##### 🤹🏼‍♂️ wk3) python OOP (2/2) + exercises (⭐️⭐️⭐️⭐️)
+##### ⚠️ wk4) python ERRORS & built-in exceptions (⭐️⭐️⭐️)
 
 #
 

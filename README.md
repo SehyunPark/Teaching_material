@@ -9,7 +9,8 @@
 
 ### ⭐️ python_심화반
 ##### 🐢 python TURTLE graphics (⭐️⭐️)
-##### 👜 python OOP(Object-Oriented Programming) (⭐️⭐️⭐️)
+##### 👜 python OOP (1/2) (⭐️⭐️⭐️)
+##### 🤹🏼‍♂️ python OOP (2/2) (⭐️⭐️⭐️⭐️)
 
 #
 

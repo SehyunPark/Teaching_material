@@ -22,4 +22,6 @@
 
 - inheritance 개념(2개 이상의 sub class 만들기 + super()) + isinstance(), issubclass() method
 
-- (Exercise 003) 
+- (Exercise 003) 나만의 class 만들기 - 두 가지 variables, 세 가지 method, 2개 이상의 sub class 만들기
+
+- POP QUIZ & OOP 개념 복습, 마무리

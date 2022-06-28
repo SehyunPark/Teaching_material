@@ -9,7 +9,7 @@
 
 - (개인 프로젝트) turtle module을 이용해 원하는 그림 그리기
 
-### 👜 <b>python OOP(Object-Oriented Programming)</b> (⭐️⭐️⭐️⭐️)
+### 👜 <b>python OOP(Object-Oriented Programming) (1/2 + 2/2)</b> (⭐️⭐️⭐️⭐️)
 - class, instance, attribute, method 기초 개념
 
 - class variable & instance variable 차이점
@@ -19,3 +19,7 @@
 - regular instance method vs. class method (class constructor) vs. static method 차이점
 
 - (Exercise 002) 앞서 만든 cal class에 class method & static method 만들어보기
+
+- inheritance 개념(2개 이상의 sub class 만들기 + super()) + isinstance(), issubclass() method
+
+- (Exercise 003) 

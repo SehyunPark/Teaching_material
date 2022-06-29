@@ -15,9 +15,12 @@
 #
 
 ### ⭐️ app_inventor
-##### 🚩 <b>G001 - Room_Escape</b> (⭐⭐⭐⭐)
-##### 🚩 <b>G002 - Basketball</b> (⭐)
-##### 🚩 <b>G003 - Mole_Mash</b> (⭐⭐⭐)
+##### 🌿 E001 - (extension) Emotion_Recognition (introducing ML concepts)(⭐⭐⭐)
+
+##### 🎮 G001 - Room_Escape(⭐⭐⭐⭐)
+##### 🎮 G002 - Basketball(⭐)
+##### 🎮 G003 - Mole_Mash(⭐⭐⭐)
+
 
 #
 

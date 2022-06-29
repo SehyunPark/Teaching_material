@@ -1,0 +1,10 @@
+E003) Emotion_Recognition 보충설명 
+1) https://classifier.appinventor.mit.edu/oldpic/ 들어가기
+
+2) 
+(1) ADD LABEL - sad, happy, scared 넣기
+(2) ADD TRAINING DATA - 모델이 공부하게끔 표정 사진 찍기
+(3) SELECT MODEL - Train model 버튼 클릭! 모델이 공부하게 하기
+(4) ADD TESTING DATA - 훈련한 모델을 시험해보기 - 표정 사진 찍기
+(모델이 잘 맞추는 지 확인!0
+(5) VIEW RESULTS - Download Model 모델 다운로드 (mdl 확장자)

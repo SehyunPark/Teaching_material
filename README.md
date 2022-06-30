@@ -27,7 +27,8 @@
 ### ⭐️ meta_skills
 ##### ✔️ wk1) - GOOGLING & WIKIPEDIA, FILE & FOLDER & IMAGE (+how to download, rename and copy-paste) (⭐️⭐️)
 ##### ✔️ wk2) - Proper, Incorrect Typing Hand Placement & Posture + Hancom Typing Practice(Kor/Eng) (Practice Lv.01) (⭐️⭐️⭐️)
-##### ✔️ wk3) - + Hancom Typing Practice(Kor/Eng) (Practice Lv.02)
+##### ✔️ wk3) - introducing CLOUD concepts & using GOOGLE DRIVE (+how to make a file/folder, rename, copy-cut-paste and move to trash/restore) + Hancom Typing Practice(Kor/Eng) (Practice Lv.02) (⭐️⭐️)
+##### ✔️ wk4) - + Hancom Typing Practice(Kor/Eng) (Practice Lv.03) (⭐️⭐️)
 
 #
 

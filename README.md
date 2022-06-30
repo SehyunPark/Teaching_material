@@ -40,8 +40,7 @@
 ##### 📌 week 2 - getting used to 'lua coding(1/3)' - simple coding pratice making a script - for loop, while loop (⭐️⭐️⭐️)
 ##### 📌 week 3 - getting used to 'lua coding(2/3)' - practicing making a script using for, while, if-then-else (⭐️⭐️⭐️)
 ##### 📌 week 4 - getting used to 'lua coding(3/3)' - revewing for, while, if-then-else + making a function (⭐️⭐️⭐️⭐️)
-
-
+##### 📌 week 5 - decorating terrains, landscapes + DOT implementation (⭐️⭐️⭐️⭐️)
 #
 
 ### ⭐️ roblox_심화반

@@ -15,7 +15,7 @@
 #
 
 ### ⭐️ app_inventor
-##### 🌿 E001 - (extension) Emotion_Recognition (introducing ML concepts)(⭐⭐⭐)
+##### ~~🌿 E001 - (extension) Emotion_Recognition (introducing ML concepts)(⭐⭐⭐)~~ (will not cover in the class.. 😰)
 
 ##### 🎮 G001 - Room_Escape(⭐⭐⭐⭐)
 ##### 🎮 G002 - Basketball(⭐)

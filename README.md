@@ -2,6 +2,7 @@
 👨‍🏫 <b>플레이소프트영재코딩학원 주엽, 정발산 campus</b>
 
 👏 수업자료 모음 (code 포함)
+✍️ PBL(Project-Based Learning) 방식 수업 진행
 
 ### ⭐️ python_기초반
 

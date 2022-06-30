@@ -37,6 +37,10 @@
 
 ### ⭐️ roblox_기초반
 ##### 📌 week 1 - fundamentals - making parts, adding part effects, (dis)integrate parts, making a magic chair, free practice (⭐️⭐️)
+##### 📌 week 2 - getting used to 'lua coding(1/3)' - simple coding pratice making a script - for loop, while loop (⭐️⭐️⭐️)
+##### 📌 week 3 - getting used to 'lua coding(2/3)' - practicing making a script using for, while, if-then-else (⭐️⭐️⭐️)
+##### 📌 week 4 - getting used to 'lua coding(3/3)' - revewing for, while, if-then-else + making a function (⭐️⭐️⭐️⭐️)
+
 
 #
 

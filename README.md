@@ -22,7 +22,7 @@
 ##### 🎮 G001 - Room_Escape(⭐⭐⭐⭐)
 ##### 🎮 G002 - Basketball(⭐)
 ##### 🎮 G003 - Mole_Mash(⭐⭐⭐)
-
+##### 🎮 G004 - Shooting_Game(⭐)
 
 #
 

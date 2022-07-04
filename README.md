@@ -52,7 +52,7 @@
 #
 
 ### ⭐️ roblox_심화반
-##### 📌 week 1 - inserting a sound in the game, GUI composition
+##### 📌 week 1 - inserting a sound(bg music) in the game, GUI composition
 
 ##### 📌 week 7 - final project preparation (1/4) (⭐️⭐️⭐️⭐️⭐️)
 ##### 📌 week 8 - final project preparation (2/4) (⭐️⭐️⭐️⭐️⭐️)

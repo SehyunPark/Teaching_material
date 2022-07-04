@@ -44,8 +44,19 @@
 ##### 📌 week 3 - getting used to 'lua coding(2/3)' - practicing making a script using for, while, if-then-else (⭐️⭐️⭐️)
 ##### 📌 week 4 - getting used to 'lua coding(3/3)' - revewing for, while, if-then-else + making a function (⭐️⭐️⭐️⭐️)
 ##### 📌 week 5 - decorating terrains, landscapes + DOT implementation (⭐️⭐️⭐️⭐️)
+
+##### 📌 week 9 - term project preparation (1/3) (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 10 - term project preparation (2/3) (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 11 - term project preparation + PPT (3/3) (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 12 - term project presentation (⭐️⭐️⭐️⭐️⭐️)
 #
 
 ### ⭐️ roblox_심화반
 
+##### 📌 week 7 - final project preparation (1/4) (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 8 - final project preparation (2/4) (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 9 - final project preparation (3/4) (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 10 - final project preparation (4/4) (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 11 - final project presentation + PPT (3/3) (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 12 - ROBLOX whole semester review (⭐️⭐️⭐️⭐️⭐️)
 #

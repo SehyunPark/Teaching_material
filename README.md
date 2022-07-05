@@ -33,6 +33,12 @@
 ##### ✔️ wk3) - introducing CLOUD concepts & using GOOGLE DRIVE (+how to make a file/folder, rename, copy-cut-paste and move to trash/restore) + Hancom Typing Practice(Kor/Eng) (Practice Lv.02) (⭐️⭐️)
 ##### ✔️ wk4) - + Hancom Typing Practice(Kor/Eng) (Practice Lv.03) (⭐️⭐️)
 
+#### week 8 - + final project preparation
+#### week 9 - + final project preparation
+#### week 10 - final project preparation + PPT
+#### week 11 - final project presentation
+#### week 12 - term FINAL REVIEW
+
 #
 
 ### ⭐️ scratch

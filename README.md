@@ -12,17 +12,18 @@
 ### ⭐️ python_심화반
 ##### 🐢 wk1) python TURTLE graphics (⭐️⭐️)
 ##### 👜 wk2~3) python OOP (⭐️⭐️⭐️⭐️)
-##### ⚠️ wk4) python ERRORS & built-in exceptions (⭐️⭐️⭐️)
+##### ⚠️ wk4) python Syntax Error, Exceptions & try-except-finally (⭐️⭐️⭐️)
+##### wk5) (add.) python Exception Handling ()
 
 #
 
 ### ⭐️ app_inventor
-##### ~~🌿 E001 - (extension) Emotion_Recognition (introducing ML concepts)(⭐⭐⭐)~~ (will not cover in the class.. 😰)
 
 ##### 🎮 G001 - Room_Escape(⭐⭐⭐⭐)
 ##### 🎮 G002 - Basketball(⭐)
 ##### 🎮 G003 - Mole_Mash(⭐⭐⭐)
 ##### 🎮 G004 - Shooting_Game(⭐)
+##### ~~🌿 E001 - (extension) Emotion_Recognition (introducing ML concepts)(⭐⭐⭐)~~ (will not cover in the class.. 😰)
 
 #
 

@@ -20,6 +20,8 @@
 
 - (Exercise 002) 앞서 만든 cal class에 class method & static method 만들어보기
 
+- POP QUIZ
+
 - inheritance 개념(2개 이상의 sub class 만들기 + super()) + isinstance(), issubclass() method
 
 - (Exercise 003) 나만의 class 만들기 - 두 가지 variables, 세 가지 method, 2개 이상의 sub class 만들기

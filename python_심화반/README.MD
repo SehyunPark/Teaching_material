@@ -27,3 +27,16 @@
 - (Exercise 003) 나만의 class 만들기 - 두 가지 variables, 세 가지 method, 2개 이상의 sub class 만들기
 
 - POP QUIZ & OOP 개념 복습, 마무리
+
+### ⚠️ <b>python Syntax Error, Exceptions & try-except-finally + handling exceptions (1/2 + 2/2)</b> (⭐️⭐️⭐️)
+- SyntaxError vs. Exceptions
+
+- top 10 types of Errors - IndexError, ValueError, NameError, ImportError, KeyError, IndentationError, TypeError, AttributeError, ZeroDivisionError, OverflowError
+
+- try-except examples
+
+- try-except-finally examples
+
+- POP QUIZ
+
+- POP QUIZ & syntax error, exception(+handling) 개념 복습, 마무리

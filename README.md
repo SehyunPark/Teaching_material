@@ -10,10 +10,10 @@
 #
 
 ### ⭐️ python_심화반
-##### 🐢 wk1) python TURTLE graphics (⭐️⭐️)
-##### 👜 wk2~3) python OOP (⭐️⭐️⭐️⭐️)
-##### ⚠️ wk4) python Syntax Error, Exceptions & try-except-finally (⭐️⭐️⭐️)
-##### wk5) (add.) python Exception Handling ()
+##### 🐢 wk3) python TURTLE graphics (⭐️⭐️)
+##### 👜 wk4~5) python OOP (⭐️⭐️⭐️⭐️)
+##### ⚠️ wk6) python Syntax Error, Exceptions & try-except-finally (⭐️⭐️⭐️)
+##### wk7) (add.) python Exception Handling ()
 
 #
 

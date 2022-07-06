@@ -19,11 +19,12 @@
 
 ### ⭐️ app_inventor
 
-##### 🎮 G001 - Room_Escape(⭐⭐⭐⭐)
-##### 🎮 G002 - Basketball(⭐)
-##### 🎮 G003 - Mole_Mash(⭐⭐⭐)
-##### 🎮 G004 - Shooting_Game(⭐)
-##### ~~🌿 E001 - (extension) Emotion_Recognition (introducing ML concepts)(⭐⭐⭐)~~ (will not cover in the class.. 😰)
+##### 🏃‍♂️ G001 - Room_Escape(⭐⭐⭐⭐)
+##### 🏀 G002 - Basketball(⭐)
+##### 🐮 G003 - Mole_Mash(⭐⭐⭐)
+##### 🔫 G004 - Shooting_Game(⭐)
+##### 🚗 G005 - Car_Game(⭐⭐⭐)
+##### ~~🌿 E001 - (extension) Emotion_Recognition (introducing ML concepts)(⭐⭐⭐)~~
 
 #
 

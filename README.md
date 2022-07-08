@@ -3,7 +3,7 @@
 
 👏 수업자료 모음 (code 포함)
 
-✍️ PBL(Project-Based Learning) 방식 수업 진행
+✍️ <b>PBL(Project-Based Learning)</b> 방식 수업 진행
 
 ### ⭐️ python_기초반
 

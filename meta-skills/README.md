@@ -1,5 +1,7 @@
-✔️ <b>week 1</b> - introduction to googling, wikipedia & file, folder, image concepts & how to download, rename and copy-paste (⭐️⭐️)
+✔️ <b>week 1</b> - <GOOGLING & WIKIPEDIA, FILE & FOLDER & IMAGE concepts, manipulation> (⭐️⭐️)
 
-✔️ <b>week 2</b> - Proper, Incorrect Typing Hand Placement & Posture + Hancom Typing Practice (Kor/Eng) (Practice Lv.01) (⭐️⭐️⭐️)
+✔️ <b>week 2</b> - <Proper, Incorrect Typing Hand Placement & Posture> + Typing Practice(Kor/Eng) (⭐️⭐️⭐️)
 
-✔️ <b>week 3</b> - introducing CLOUD concepts & using GOOGLE DRIVE (+how to make a file/folder, rename, copy-cut-paste and move to trash/restore) + Hancom Typing Practice(Kor/Eng) (Practice Lv.02) (⭐️⭐️)
+✔️ <b>week 3</b> - <CLOUD & GOOGLE DRIVE> + Typing Practice(Kor/Eng) (⭐️⭐️)
+
+✔️ <b>week 4</b> - <GMAIL, Google Hangouts, Excel graphs(advanced)> + Typing Practice(Kor/Eng) (⭐️⭐️⭐️)

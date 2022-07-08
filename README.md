@@ -29,10 +29,12 @@
 #
 
 ### ⭐️ meta_skills
-##### ✔️ wk1) - GOOGLING & WIKIPEDIA, FILE & FOLDER & IMAGE (+how to download, rename and copy-paste) (⭐️⭐️)
-##### ✔️ wk2) - Proper, Incorrect Typing Hand Placement & Posture + Hancom Typing Practice(Kor/Eng) (⭐️⭐️⭐️)
-##### ✔️ wk3) - introducing CLOUD concepts & using GOOGLE DRIVE (+how to make a file/folder, rename, copy-cut-paste and move to trash/restore) + Hancom Typing Practice(Kor/Eng) (⭐️⭐️)
-##### ✔️ wk4) - + Hancom Typing Practice(Kor/Eng) (⭐️⭐️)
+##### ✔️ week 1 - <GOOGLING & WIKIPEDIA, FILE & FOLDER & IMAGE concepts, manipulation> (⭐️⭐️)
+##### ✔️ week 2 - <Proper, Incorrect Typing Hand Placement & Posture> + Typing Practice(Kor/Eng) (⭐️⭐️⭐️)
+##### ✔️ week 3 - <CLOUD & GOOGLE DRIVE> + Typing Practice(Kor/Eng) (⭐️⭐️)
+##### ✔️ week 4 - <GMAIL, Google Hangouts, Excel graphs(advanced)> + Typing Practice(Kor/Eng) (⭐️⭐️⭐️)
+##### ✔️ week 5 - + Typing Practice(Kor/Eng) (⭐️⭐️)
+##### ✔️ week 6 - + Typing Practice(Kor/Eng) (⭐️⭐️)
 
 ##### week 8 - + final project preparation
 ##### week 9 - + final project preparation

@@ -1,6 +1,6 @@
 ### ⭐️ roblox_심화반
 
-##### 📌 week 1 - <GUI Envrionment> - GUI TextLabel
+##### 📌 week 1 - <GUI Envrionment> - TextLabel, ImagesButton(HoverImage, PressedImage)
 
 ##### 📌 week 7 - final project preparation (1/4) (⭐️⭐️⭐️⭐️⭐️)
 ##### 📌 week 8 - final project preparation (2/4) (⭐️⭐️⭐️⭐️⭐️)

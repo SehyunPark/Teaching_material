@@ -1,0 +1,27 @@
+1> GUI composition
+
+1) screenGUI
+- StarterGui - ScreenGui - TextLabel 클릭 - 속성창 Text - 속성 이쁘게 꾸며보기 - 화면에 고정된 것
+
+2) ImagesButton
+- 사진 두 장 각각 HoverImage, PressedImage
+- StarterGui - ScreenGui - ImageButton 클릭 - 보기 애셋 관리자 - 이미지 두 개 추가
+- ImageButton 속성 창 HoverImage와 Image에는 HoverImage, PressedImage에는 PressedImage
+- 원래 image로는 hoverimage가 나오고, 클릭하면 pressedimage가 나온다.
+
+3) SurfaceGui - Text + 이미지
+- block 만들고 - SurfaceGui - TextLabel 클릭 - Face로 나타내는 면 클릭
+- backgroundcolor 선택 - size는 scale 1, offset 0 - visible 체크 - Text, TextSize 바꾸기
+- TextWrapped 체크하면 여러 줄 표현 가능
+
+- 또다른 SurfaceGui 넣고 다른 면 - ImageLabel 
+- size는 scale 1, offset 0 - image 칸에 원하는 image 파일 넣기 (Alt + P 해서 게임 저장해야 가능)
+----------------------------------------------------------------------------------------------------
+
+2> 음악 넣기
+- workspace에 sound 추가 - soundid에 roblox song copy and paste
+https://robloxsong.com/
+---------------------------------------------------------------------------------------------------
+
+3> 발표한 프로젝트 게임 보강
+- 아니면 최종 프로젝트 새로운 게임 테마 생각해서 처음으로 만들기

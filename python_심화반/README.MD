@@ -28,7 +28,7 @@
 
 - POP QUIZ & OOP 개념 복습, 마무리
 
-### ⚠️ <b>python Syntax Error, Exceptions & try-except-finally + handling exceptions (1/2 + 2/2)</b> (⭐️⭐️⭐️)
+### ⚠️ <b>python Syntax Error, Exceptions & try-except-finally + exceptions handling (1/2)</b> (⭐️⭐️⭐️)
 - SyntaxError vs. Exceptions
 
 - top 10 types of Errors - IndexError, ValueError, NameError, ImportError, KeyError, IndentationError, TypeError, AttributeError, ZeroDivisionError, OverflowError
@@ -40,3 +40,16 @@
 - POP QUIZ
 
 - POP QUIZ & syntax error, exception(+handling) 개념 복습, 마무리
+
+### ⚠️ <b>python exceptions handling - advanced (2/2) & awesome python tricks </b> (⭐️⭐️⭐️⭐️)
+- exception naming
+
+- handling multiple types of exception
+
+- raise Exception
+
+- awesome python tricks: handling HUGE numeric numbers, enumerate - zip, list comprehension
+
+- POP QUIZ
+
+- exception handling 개념 복습, python tricks 

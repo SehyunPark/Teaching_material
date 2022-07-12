@@ -17,13 +17,17 @@
 
 #
 
-### ⭐️ app_inventor
+### ⭐️ app_inventor_기초
 
-##### 🏃‍♂️ G001 - Room_Escape(⭐⭐⭐⭐)
-##### 🏀 G002 - Basketball(⭐)
-##### 🐮 G003 - Mole_Mash(⭐⭐⭐)
-##### 🔫 G004 - Shooting_Game(⭐)
-##### 🚗 G005 - Car_Game(⭐⭐⭐)
+#
+
+### ⭐️ app_inventor_심화
+
+##### 🧶 G001 - Room_Escape(⭐⭐⭐⭐)
+##### 🧶 G002 - Basketball(⭐)
+##### 🧶 G003 - Mole_Mash(⭐⭐⭐)
+##### 🧶 G004 - Shooting_Game(⭐)
+##### 🧶 G005 - Car_Game(⭐⭐⭐)
 ##### ~~🌿 E001 - (extension) Emotion_Recognition (introducing ML concepts)(⭐⭐⭐)~~
 
 #

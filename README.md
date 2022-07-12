@@ -10,10 +10,10 @@
 #
 
 ### ⭐️ python_심화반
-##### 🐢 wk3) python TURTLE graphics (⭐️⭐️)
-##### 👜 wk4~5) python OOP (⭐️⭐️⭐️⭐️)
-##### ⚠️ wk6) python Syntax Error, Exceptions & try-except-finally (⭐️⭐️⭐️)
-##### wk7) (add.) python Exception Handling ()
+##### ✍️ week 3 - python TURTLE graphics (⭐️⭐️) / 1 algorithm
+##### ✍️ week 4,5 - python OOP (⭐️⭐️⭐️⭐️) / 1 algorithm
+##### ✍️ week 6 - python Syntax Error, Exceptions & try-except-finally (⭐️⭐️⭐️) / 1 algorithm
+##### ✍️ week 7 - python Exception Handling advanced & awesome python tricks (⭐️⭐️⭐️⭐️) / 1 algorithm
 
 #
 

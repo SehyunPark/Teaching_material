@@ -10,10 +10,12 @@
 #
 
 ### ⭐️ python_심화반
+##### ✍️ week 2 - PyAutoGUI module (⭐️⭐️) / 1 algorithm
 ##### ✍️ week 3 - python TURTLE graphics (⭐️⭐️) / 1 algorithm
 ##### ✍️ week 4,5 - python OOP (⭐️⭐️⭐️⭐️) / 1 algorithm
 ##### ✍️ week 6 - python Syntax Error, Exceptions & try-except-finally (⭐️⭐️⭐️) / 1 algorithm
 ##### ✍️ week 7 - python Exception Handling advanced & awesome python tricks (⭐️⭐️⭐️⭐️) / 1 algorithm
+##### ✍️ week 8 - Review (⭐️⭐️) / 1 algorithm
 
 #
 

@@ -37,8 +37,9 @@
 ##### ✔️ week 2 - <Proper, Incorrect Typing Hand Placement & Posture> + Typing Practice(Kor/Eng) (⭐️⭐️⭐️)
 ##### ✔️ week 3 - <CLOUD & GOOGLE DRIVE> + Typing Practice(Kor/Eng) (⭐️⭐️)
 ##### ✔️ week 4 - <GMAIL, Google Hangouts, Excel graphs(advanced)> + Typing Practice(Kor/Eng) (⭐️⭐️⭐️)
-##### ✔️ week 5 - + Typing Practice(Kor/Eng) (⭐️⭐️)
+##### ✔️ week 5 - <Mindmap, Understanding of Folder Structure>+ Typing Practice(Kor/Eng) (⭐️⭐️⭐️⭐️)
 ##### ✔️ week 6 - + Typing Practice(Kor/Eng) (⭐️⭐️)
+##### ✔️ week 7 - + Typing Practice(Kor/Eng) (⭐️⭐️)
 
 ##### week 8 - + final project preparation
 ##### week 9 - + final project preparation

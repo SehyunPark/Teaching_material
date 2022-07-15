@@ -21,6 +21,8 @@
 
 ### ⭐️ app_inventor_기초
 
+##### ✔️ week 1 - Introduction & 
+
 #
 
 ### ⭐️ app_inventor_심화
@@ -29,25 +31,37 @@
 ##### 🧶 G002 - Basketball(⭐)
 ##### 🧶 G003 - Mole_Mash(⭐⭐⭐)
 ##### 🧶 G004 - Shooting_Game(⭐)
-##### 🧶 G005 - Car_Game(⭐⭐⭐)
-##### ~~🌿 E001 - (extension) Emotion_Recognition (introducing ML concepts)(⭐⭐⭐)~~
+
+##### ✔️ week 1 - 
+##### ✔️ week 2 - Car_Game ⭐⭐⭐⭐ (1/2)
+##### ✔️ week 3 - Car_Game ⭐⭐⭐⭐ (2/2)
+##### ✔️ week 4 - 
+##### ✔️ week 5 -
+##### ✔️ week 6 - Review & Unfinished Mini-Projects' Completion
+
+##### ✔️ week 7 - Final Project Preparation
+##### ✔️ week 8 - Final Project Preparation
+##### ✔️ week 9 - Final Project Preparation
+##### ✔️ week 10 - Final Project Preparation
+##### ✔️ week 11 - Final Project PPT + Presentation Practice
+##### ⭐️ week 12 - Final Project Presentation
 
 #
 
 ### ⭐️ meta_skills
-##### ✔️ week 1 - <GOOGLING & WIKIPEDIA, FILE & FOLDER & IMAGE concepts, manipulation> (⭐️⭐️)
-##### ✔️ week 2 - <Proper, Incorrect Typing Hand Placement & Posture> + Typing Practice(Kor/Eng) (⭐️⭐️⭐️)
-##### ✔️ week 3 - <CLOUD & GOOGLE DRIVE> + Typing Practice(Kor/Eng) (⭐️⭐️)
-##### ✔️ week 4 - <GMAIL, Google Hangouts, Excel graphs(advanced)> + Typing Practice(Kor/Eng) (⭐️⭐️⭐️)
-##### ✔️ week 5 - <Mindmap, Understanding of Folder Structure>+ Typing Practice(Kor/Eng) (⭐️⭐️⭐️⭐️)
-##### ✔️ week 6 - + Typing Practice(Kor/Eng) (⭐️⭐️)
-##### ✔️ week 7 - + Typing Practice(Kor/Eng) (⭐️⭐️)
+##### ✔️ week 1 - GOOGLING & WIKIPEDIA, FILE & FOLDER & IMAGE
+##### ✔️ week 2 - Proper, Incorrect Typing Hand Placement & Posture + Typing Practice
+##### ✔️ week 3 - CLOUD & GOOGLE DRIVE + Typing Practice
+##### ✔️ week 4 - GMAIL & Google Hangouts + Typing Practice
+##### ✔️ week 5 - Mindmap & Understanding of Folder Structure + Typing Practice
+##### ✔️ week 6 - + Typing Practice
+##### ✔️ week 7 - + Typing Practice
 
-##### week 8 - + final project preparation
-##### week 9 - + final project preparation
-##### week 10 - final project preparation + PPT
-##### week 11 - final project presentation
-##### week 12 - term FINAL REVIEW
+##### ✔️ week 8 - + Final Project Preparation
+##### ✔️ week 9 - + Final Project Preparation
+##### ✔️ week 10 - Final Project Preparation + Presentation Practice
+##### ⭐️ week 11 - Final Project Presentation
+##### ✔️ week 12 - Semester REVIEW
 
 #
 

@@ -6,6 +6,7 @@
 ✍️ <b>PBL(Project-Based Learning)</b> 방식 수업 진행
 
 ### ⭐️ python_기초반
+##### ✍️ week 1 - Introduction 
 
 #
 
@@ -16,6 +17,10 @@
 ##### ✍️ week 6 - python Syntax Error, Exceptions & Handling (1/2) ⭐️⭐️⭐️ / 1 algorithm (leap year)
 ##### ✍️ week 7 - python Exceptions Handling (2/2) & python tricks ⭐️⭐️⭐️⭐️ / 1 algorithm (palindrome) 
 ##### ✍️ week 8 - Review ⭐️⭐️ / 1 algorithm
+##### ✍️ week 9 -
+##### ✍️ week 10 -
+##### ✍️ week 11 -
+##### ✍️ week 12 -
 
 #
 
@@ -35,13 +40,13 @@
 ##### ✔️ week 3 - Car_Game ⭐⭐⭐⭐ (2/2)
 ##### ✔️ week 4 - 
 ##### ✔️ week 5 -
-##### ✔️ week 6 - Review & Unfinished Mini-Projects' Completion
+##### ✔️ week 6 - Review & Unfinished Ones Completion
 
 ##### ✔️ week 7 - Final Project Preparation
 ##### ✔️ week 8 - Final Project Preparation
 ##### ✔️ week 9 - Final Project Preparation
-##### ✔️ week 10 - Final Project Preparation
-##### ✔️ week 11 - Final Project PPT + Presentation Practice
+##### ✔️ week 10 - Final Project PPT
+##### ✔️ week 11 - Final Project Presentation Practice
 ##### ⭐️ week 12 - Final Project Presentation
 
 #
@@ -76,8 +81,8 @@
 
 ##### 📌 week 9 - term project preparation (1/3) (⭐️⭐️⭐️⭐️⭐️)
 ##### 📌 week 10 - term project preparation (2/3) (⭐️⭐️⭐️⭐️⭐️)
-##### 📌 week 11 - term project preparation + PPT (3/3) (⭐️⭐️⭐️⭐️⭐️)
-##### 📌 week 12 - term project presentation (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 11 - Term Project Presentation Practice
+##### ⭐️ week 12 - Term Project Presentation
 #
 
 ### ⭐️ roblox_심화반
@@ -86,7 +91,7 @@
 
 ##### 📌 week 7 - final project preparation (1/4) 
 ##### 📌 week 9 - final project preparation (3/4) 
-##### 📌 week 10 - final project preparation + PPT (4/4) 
-##### 📌 week 11 - 
+##### 📌 week 10 - Final Project PPT
+##### 📌 week 11 - Final Project Presentation Practice
 ##### ⭐️ week 12 - Final Project Presentation 
 #

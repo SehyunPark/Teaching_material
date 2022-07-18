@@ -52,19 +52,19 @@
 #
 
 ### ⭐️ meta_skills
-##### ✔️ week 1 - GOOGLING & WIKIPEDIA, FILE & FOLDER & IMAGE
-##### ✔️ week 2 - Proper, Incorrect Typing Hand Placement & Posture + Typing Practice
-##### ✔️ week 3 - CLOUD & GOOGLE DRIVE + Typing Practice
-##### ✔️ week 4 - GMAIL & Google Hangouts + Typing Practice
-##### ✔️ week 5 - Mindmap & Understanding of Folder Structure + Typing Practice
-##### ✔️ week 6 - + Typing Practice
-##### ✔️ week 7 - + Typing Practice
+##### ✔️ week 1 - Introduction + Googling, Wikipedia, File-Folder-Image concepts ⭐️
+##### ✔️ week 2 - Typing Hands Placement, Posture (Typing Practice) ⭐️
+##### ✔️ week 3 - Cloud, Google Drive (Typing Practice) ⭐️⭐️
+##### ✔️ week 4 - Gmail, Google Hangouts (Typing Practice) ⭐️
+##### ✔️ week 5 - Mindmap, Folder Structure Pracice (Typing Practice) ⭐️⭐️⭐️
+##### ✔️ week 6 - Review (Typing Practice)
+##### ✔️ week 7 - (Typing Practice)
 
 ##### ✔️ week 8 - + Final Project Preparation
 ##### ✔️ week 9 - + Final Project Preparation
 ##### ✔️ week 10 - Final Project Preparation + Presentation Practice
 ##### ⭐️ week 11 - Final Project Presentation
-##### ✔️ week 12 - Semester REVIEW
+##### ✔️ week 12 - Semester Review
 
 #
 

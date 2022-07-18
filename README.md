@@ -10,23 +10,21 @@
 #
 
 ### ⭐️ python_심화반
-##### ✍️ week 2 - PyAutoGUI module (⭐️⭐️) / 1 algorithm
-##### ✍️ week 3 - python TURTLE graphics (⭐️⭐️) / 1 algorithm (multiplication table)
-##### ✍️ week 4,5 - python OOP (⭐️⭐️⭐️⭐️) / 1 algorithm (prime number)
-##### ✍️ week 6 - python Syntax Error, Exceptions & try-except-finally (⭐️⭐️⭐️) / 1 algorithm (leap year)
-##### ✍️ week 7 - python Exception Handling advanced & awesome python tricks (⭐️⭐️⭐️⭐️) / 1 algorithm (palindrome) 
-##### ✍️ week 8 - Review (⭐️⭐️) / 1 algorithm
+##### ✍️ week 2 - PyAutoGUI module ⭐️⭐️ / 1 algorithm
+##### ✍️ week 3 - python TURTLE graphics ⭐️⭐️ / 1 algorithm (multiplication table)
+##### ✍️ week 4,5 - python OOP ⭐️⭐️⭐️⭐️ / 1 algorithm (prime number)
+##### ✍️ week 6 - python Syntax Error, Exceptions & Handling (1/2) ⭐️⭐️⭐️ / 1 algorithm (leap year)
+##### ✍️ week 7 - python Exceptions Handling (2/2) & python tricks ⭐️⭐️⭐️⭐️ / 1 algorithm (palindrome) 
+##### ✍️ week 8 - Review ⭐️⭐️ / 1 algorithm
 
 #
 
-### ⭐️ app_inventor_기초
-
+### ⭐️ app_inventor_기초반
 ##### ✔️ week 1 - Introduction & 
 
 #
 
-### ⭐️ app_inventor_심화
-
+### ⭐️ app_inventor_심화반
 ##### 🧶 G001 - Room_Escape(⭐⭐⭐⭐)
 ##### 🧶 G002 - Basketball(⭐)
 ##### 🧶 G003 - Mole_Mash(⭐⭐⭐)
@@ -83,13 +81,12 @@
 #
 
 ### ⭐️ roblox_심화반
-##### 📌 week 1 - GUI Envrionment, Game Music, FP preparation (⭐️)
-##### 📌 week 2 -
+##### 📌 week 1 - & Game Music ⭐️⭐️
+##### 📌 week 2 - GUI Leaderboard & NPC Design ⭐️⭐️⭐️
 
-##### 📌 week 7 - final project preparation (1/4) (⭐️⭐️⭐️⭐️⭐️)
-##### 📌 week 8 - final project preparation (2/4) (⭐️⭐️⭐️⭐️⭐️)
-##### 📌 week 9 - final project preparation (3/4) (⭐️⭐️⭐️⭐️⭐️)
-##### 📌 week 10 - final project preparation + PPT (4/4) (⭐️⭐️⭐️⭐️⭐️)
-##### 📌 week 11 - final project presentation (⭐️⭐️⭐️⭐️⭐️)
-##### 📌 week 12 - ROBLOX whole semester review (⭐️⭐️⭐️⭐️⭐️)
+##### 📌 week 7 - final project preparation (1/4) 
+##### 📌 week 9 - final project preparation (3/4) 
+##### 📌 week 10 - final project preparation + PPT (4/4) 
+##### 📌 week 11 - 
+##### ⭐️ week 12 - Final Project Presentation 
 #

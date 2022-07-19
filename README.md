@@ -11,6 +11,7 @@
 #
 
 ### ⭐️ python_심화반
+##### ✍️ week 1 - python Formatting / 1 algorithm
 ##### ✍️ week 2 - PyAutoGUI module ⭐️⭐️ / 1 algorithm
 ##### ✍️ week 3 - python TURTLE graphics ⭐️⭐️ / 1 algorithm (multiplication table)
 ##### ✍️ week 4,5 - python OOP ⭐️⭐️⭐️⭐️ / 1 algorithm (prime number)

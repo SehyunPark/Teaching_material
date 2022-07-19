@@ -16,7 +16,7 @@
 ##### ✍️ week 4,5 - python OOP ⭐️⭐️⭐️⭐️ / 1 algorithm (prime number)
 ##### ✍️ week 6 - python Syntax Error, Exceptions & Handling (1/2) ⭐️⭐️⭐️ / 1 algorithm (leap year)
 ##### ✍️ week 7 - python Exceptions Handling (2/2) & python tricks ⭐️⭐️⭐️⭐️ / 1 algorithm (palindrome) 
-##### ✍️ week 8 - Review ⭐️⭐️ / 1 algorithm
+##### ✍️ week 8 - Review / 1 algorithm (min, max)
 ##### ✍️ week 9 -
 ##### ✍️ week 10 -
 ##### ✍️ week 11 -

@@ -6,7 +6,19 @@
 ✍️ <b>PBL(Project-Based Learning)</b> 방식 수업 진행
 
 ### ⭐️ python_기초반
-##### ✍️ week 1 - Introduction 
+##### ✍️ week 1 - Introduction(Setup) + Fundamentals + Strings ⭐️⭐️
+##### ✍️ week 2 - 
+##### ✍️ week 3 -
+##### ✍️ week 4 -
+##### ✍️ week 5 -
+##### ✍️ week 6 -
+
+##### ✍️ week 7 -
+##### ✍️ week 8 -
+##### ✍️ week 9 -
+##### ✍️ week 10 -
+##### ✍️ week 11 -
+##### ✍️ week 12 -
 
 #
 

@@ -18,7 +18,7 @@
 ##### ✍️ week 9 -
 ##### ✍️ week 10 -
 ##### ✍️ week 11 -
-##### ✍️ week 12 -
+##### ✍️ week 12 - How to Googling + Semester Review ⭐️⭐️⭐️⭐️
 
 #
 
@@ -40,20 +40,21 @@
 ### ⭐️ app_inventor_기초반
 ##### ✔️ week 1 - Introduction & 
 
-#
-
-### ⭐️ app_inventor_심화반
 ##### 🧶 G001 - Room_Escape(⭐⭐⭐⭐)
 ##### 🧶 G002 - Basketball(⭐)
 ##### 🧶 G003 - Mole_Mash(⭐⭐⭐)
 ##### 🧶 G004 - Shooting_Game(⭐)
+
+#
+
+### ⭐️ app_inventor_심화반
 
 ##### ✔️ week 1 - 
 ##### ✔️ week 2 - Car_Game ⭐⭐⭐⭐ (1/2)
 ##### ✔️ week 3 - Car_Game ⭐⭐⭐⭐ (2/2)
 ##### ✔️ week 4 - 
 ##### ✔️ week 5 -
-##### ✔️ week 6 - Review & Unfinished Ones Completion
+##### ✔️ week 6 - Review & Unfinished Ones' Completion
 
 ##### ✔️ week 7 - Final Project Preparation
 ##### ✔️ week 8 - Final Project Preparation
@@ -81,7 +82,11 @@
 
 #
 
-### ⭐️ scratch
+### ⭐️ scratch_기초반
+
+#
+
+### ⭐️ scratch_심화반
 
 #
 
@@ -101,6 +106,7 @@
 ### ⭐️ roblox_심화반
 ##### 📌 week 1 - & Game Music ⭐️⭐️
 ##### 📌 week 2 - GUI Leaderboard & NPC Design ⭐️⭐️⭐️
+##### 📌 week 3 - 
 
 ##### 📌 week 7 - final project preparation (1/4) 
 ##### 📌 week 9 - final project preparation (3/4) 

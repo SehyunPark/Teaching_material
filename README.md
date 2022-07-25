@@ -30,7 +30,7 @@
 ##### ✍️ week 6 - python Syntax Error, Exceptions & Handling (1/2) ⭐️⭐️⭐️ / 1 algorithm (leap year)
 ##### ✍️ week 7 - python Exceptions Handling (2/2) & python tricks ⭐️⭐️⭐️⭐️ / 1 algorithm (palindrome) 
 ##### ✍️ week 8 - Review / 1 algorithm (min, max)
-##### ✍️ week 9 -
+##### ✍️ week 9 - Regular Expressions / 1 algorithm (fibonacci)
 ##### ✍️ week 10 -
 ##### ✍️ week 11 -
 ##### ✍️ week 12 -

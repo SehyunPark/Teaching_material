@@ -1,6 +1,6 @@
 ## <b>python_기초반 curriculum</b>
 
-### WEEK 1 🕺 <b>Introduction(Setup) + Fundamentals + Strings</b> (⭐️⭐⭐️)
+### WEEK 1 🕺 <b>Introduction(Setup) + Fundamentals + Variables + Strings</b> (⭐️⭐⭐️)
 - python 개발 환경 설치
 - 텍스트 에디터, 코드 실행기 개념
 - Visual Studio Code 설치, Korean Language Pack 설치

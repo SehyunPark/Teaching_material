@@ -31,9 +31,9 @@
 ##### ✍️ week 7 - python Exceptions Handling (2/2) & python tricks ⭐️⭐️⭐️⭐️ / 1 algorithm (palindrome) 
 ##### ✍️ week 8 - Review / 1 algorithm (min, max)
 ##### ✍️ week 9 - Regular Expressions ⭐️⭐️⭐️⭐️ / 1 algorithm (fibonacci)
-##### ✍️ week 10 -
-##### ✍️ week 11 -
-##### ✍️ week 12 -
+##### ✍️ week 10 - Files ⭐️⭐️ / 1 algorithm ()
+##### ✍️ week 11 - 
+##### ✍️ week 12 - Semester Review, Final Test, Next Semester Preview
 
 #
 

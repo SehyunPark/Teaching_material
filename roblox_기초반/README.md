@@ -1,4 +1,4 @@
-##### 📌 week 1 - fundamentals - making parts, putting some part effects, (dis)integrate some parts, making a magic chair, free practice (⭐️⭐️)
-
+##### 🌳 week 1 - Introduction, Setup, User Interface, Getting Used to Roblox Game Creator ⭐️
+##### 🌳 week 2 
 
 ## Personal Projects

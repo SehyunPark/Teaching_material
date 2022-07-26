@@ -118,7 +118,7 @@
 ##### ✍️ week 9 -
 ##### ✍️ week 10 - 
 ##### ✍️ week 11 - All About Googling ⭐️⭐️⭐️⭐️⭐️
-##### ✍️ week 12 - Final Test + Semester Review & Preview
+##### ⭐️ week 12 - Final Test + Semester Review & Preview
 
 #
 
@@ -133,6 +133,6 @@
 ##### ✍️ week 9 - Regular Expressions ⭐️⭐️⭐️⭐️ / 1 algorithm (fibonacci, factorial)
 ##### ✍️ week 10 - Files ⭐️⭐️ / 1 algorithm ()
 ##### ✍️ week 11 - 
-##### ✍️ week 12 - Final Test + Semester Review & Preview
+##### ⭐️ week 12 - Final Test + Semester Review & Preview
 
 #

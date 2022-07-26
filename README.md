@@ -73,10 +73,10 @@
 ##### ✔️ week 5 - Mindmap, Folder Structure Pracice (Typing Practice) ⭐️⭐️⭐️
 ##### ✔️ week 6 - Review (Typing Practice)
 
-##### ✔️ week 7 - (Typing Practice)
-##### ✔️ week 8 - + Final Project Preparation
-##### ✔️ week 9 - + Final Project Preparation
-##### ✔️ week 10 - Final Project Preparation + Presentation Practice
+##### ✔️ week 7 - MS Word, Google Docs (Typing Practice) ⭐️⭐️⭐️
+##### ✔️ week 8 - MS Powerpoint 1/2 ⭐️⭐️⭐️⭐️
+##### ✔️ week 9 - MS Powerpoint 1/2 ⭐️⭐️⭐️⭐️
+##### ✔️ week 10 - Final Project Preparation
 ##### ⭐️ week 11 - Final Project Presentation
 ##### ✔️ week 12 - Semester Review
 
@@ -90,12 +90,12 @@
 ##### 🏃 week 5 -
 ##### 🏃 week 6 -
 
-##### 🏃 week 7 -
-##### 🏃 week 8 -
-##### 🏃 week 9 -
-##### 🏃 week 10 -
-##### 🏃 week 11 -
-##### 🏃 week 12 -
+##### 🏃 week 7 - Review
+##### 🏃 week 8 - Term Project Preparation
+##### 🏃 week 9 - Term Project Preparation
+##### 🏃 week 10 - Term Project PPT
+##### 🏃 week 11 - Term Project Presentation Practice
+##### ⭐️ week 12 - Term Project Presentation
 
 #
 

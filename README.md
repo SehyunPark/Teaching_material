@@ -18,7 +18,7 @@
 ##### ✔️ week 9 - MS Powerpoint 1/2 ⭐️⭐️⭐️⭐️
 ##### ✔️ week 10 - Final Project Preparation
 ##### ⭐️ week 11 - Final Project Presentation
-##### ✔️ week 12 - Semester Review
+##### ✔️ week 12 - Semester Review & Preview
 
 #
 

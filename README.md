@@ -72,8 +72,8 @@
 ##### ✔️ week 4 - Gmail, Google Hangouts (Typing Practice) ⭐️
 ##### ✔️ week 5 - Mindmap, Folder Structure Pracice (Typing Practice) ⭐️⭐️⭐️
 ##### ✔️ week 6 - Review (Typing Practice)
-##### ✔️ week 7 - (Typing Practice)
 
+##### ✔️ week 7 - (Typing Practice)
 ##### ✔️ week 8 - + Final Project Preparation
 ##### ✔️ week 9 - + Final Project Preparation
 ##### ✔️ week 10 - Final Project Preparation + Presentation Practice
@@ -83,6 +83,19 @@
 #
 
 ### ⭐️ scratch_기초반
+##### 🏃 week 1 - Introduction, Setup, User Interface + Moving Characters ⭐️
+##### 🏃 week 2 -
+##### 🏃 week 3 -
+##### 🏃 week 4 -
+##### 🏃 week 5 -
+##### 🏃 week 6 -
+
+##### 🏃 week 7 -
+##### 🏃 week 8 -
+##### 🏃 week 9 -
+##### 🏃 week 10 -
+##### 🏃 week 11 -
+##### 🏃 week 12 -
 
 #
 

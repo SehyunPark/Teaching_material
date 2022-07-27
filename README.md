@@ -108,7 +108,7 @@
 ### ⭐️ python_기초반
 ##### ✍️ week 1 - Introduction(Setup) + Fundamentals + Variable + Strings ⭐️
 ##### ✍️ week 2 - Numbers(int, float) + Operations / Type Conversion + input() ⭐️⭐️
-##### ✍️ week 3 -
+##### ✍️ week 3 - String Advanced / Bool Type / Library & Package / Googling Code Intro, Practice ⭐️⭐️⭐️
 ##### ✍️ week 4 -
 ##### ✍️ week 5 -
 ##### ✍️ week 6 -

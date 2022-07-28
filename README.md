@@ -74,10 +74,10 @@
 
 ### ⭐️ roblox_기초반
 ##### 🌳 week 1 - Introduction, Setup, User Interface, Getting Used to Roblox Game Creator ⭐️
-##### 🌳 week 2 - 'lua coding(1/3)' - simple coding pratice making a script - for loop, while loop (⭐️⭐️⭐️)
-##### 🌳 week 3 - 'lua coding(2/3)' - practicing making a script using for, while, if-then-else (⭐️⭐️⭐️)
-##### 🌳 week 4 - 'lua coding(3/3)' - revewing for, while, if-then-else + making a function (⭐️⭐️⭐️⭐️)
-##### 🌳 week 5 - decorating terrains, landscapes + DOT implementation (⭐️⭐️⭐️⭐️)
+##### 🌳 week 2 - WalkSpeed UP! JumpPower UP! ⭐️⭐️⭐️
+##### 🌳 week 3 - 
+##### 🌳 week 4 - 
+##### 🌳 week 5 - 
 ##### 🌳 week 6 - 
 
 ##### 🌳 week 7 - Review

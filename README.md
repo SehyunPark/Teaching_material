@@ -12,7 +12,6 @@
 ##### ✔️ week 4 - Gmail, Google Hangouts (Typing Practice) ⭐️
 ##### ✔️ week 5 - Mindmap, Folder Structure Pracice (Typing Practice) ⭐️⭐️⭐️
 ##### ✔️ week 6 - Review (Typing Practice)
-
 ##### ✔️ week 7 - MS Word, Google Docs (Typing Practice) ⭐️⭐️⭐️
 ##### ✔️ week 8 - MS Powerpoint 1/2 ⭐️⭐️⭐️⭐️
 ##### ✔️ week 9 - MS Powerpoint 1/2 ⭐️⭐️⭐️⭐️
@@ -79,12 +78,12 @@
 ##### 🌳 week 4 - 
 ##### 🌳 week 5 - 
 ##### 🌳 week 6 - 
+##### 🌳 week 7 -
+##### 🌳 week 8 - Review
 
-##### 🌳 week 7 - Review
-##### 🌳 week 8 - Term Project Preparation
 ##### 🌳 week 9 - Term Project Preparation
-##### 🌳 week 10 - Term Project PPT
-##### 🌳 week 11 - Term Project Presentation Practice
+##### 🌳 week 10 - Term Project Preparation
+##### 🌳 week 11 - Term Project PPT + Presentation Practice
 ##### ⭐️ week 12 - Term Project Presentation
 
 #

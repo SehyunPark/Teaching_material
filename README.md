@@ -24,7 +24,7 @@
 
 ### ⭐️ scratch_기초반
 ##### 🏃 week 1 - Introduction, Setup, User Interface + Moving Characters ⭐️
-##### 🏃 week 2 - Following Cats & Changing Colors & Piano ⭐️⭐️
+##### 🏃 week 2 - Following Cats + Changing Colors + Extension) Piano ⭐️⭐️
 ##### 🏃 week 3 -
 ##### 🏃 week 4 -
 ##### 🏃 week 5 -

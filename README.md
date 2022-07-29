@@ -95,12 +95,12 @@
 ##### 🌳 week 4 - 
 ##### 🌳 week 5 - 
 ##### 🌳 week 6 - 
+##### 🌳 week 7 - 
+##### 🌳 week 8 - Review
 
-##### 🌳 week 7 - Review
-##### 🌳 week 8 - Final Project Preparation
 ##### 🌳 week 9 - Final Project Preparation
-##### 🌳 week 10 - Final Project PPT
-##### 🌳 week 11 - Final Project Presentation Practice
+##### 🌳 week 10 - Final Project Preparation
+##### 🌳 week 11 - Final Project PPT + Presentation Practice
 ##### ⭐️ week 12 - Final Project Presentation 
 
 #
